@@ -6,7 +6,7 @@ GUI for graphing interpolation functions. Uses jfreechart library.
 Run MainView.
 
 Example:
-![Example](username.github.com/repository/Graphing_Project_Example.png)
+![Example](Graphing_Project_Example.png)
 
 Can Graph:
 
